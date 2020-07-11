@@ -1,2 +1,5 @@
-# anemia-below-5-based-on-socio-eco-factor
-A study of Socio-economic factors effecting the prevalence of anemia in kids below 5 years of age
+# A study of Socio-economic factors effecting the prevalence of anemia in kids below 5 years of age
+<p>Domain: Healthcare Analytics</p>
+<p>Skills: Logistic Regression, R, TABLEAU, Data Visualization, Exploratory Data Analysis</p>
+<p>Description: <li>To see the latest picture of childhood anemia in India, data for 6- to 59-month-old children were taken from Demographic Health Survey conducted in 2015–16 (DHS-4) for all over India. The study sample consisted of 141,252 children. The objectives of the study were to assess the relation of childhood anemia prevalence with geographical, social, demographic and economic variables.</li>
+<li>The results of the analysis suggest that current efforts, mainly iron and nutritional supplementation are necessary but not enough to significantly produce the necessary reduction in the incidence of childhood anemia. A combination of nutritional supplementation and food fortification programs, as well as maternal awareness and education with alleviation of family poverty may translate into optimal improvement in the hemoglobin levels of the children.</li></p>
